@@ -40,3 +40,7 @@ degree, the pump gets mechanically on and       irrigation is performed to an ok
 effectiveness of the machine, the noted recommendations can be placed into attention. Alternative of controlling the water pump may be given to the farmer by way of which they are able to turn on or off the pump to be able to start or prevent the manner of irrigation without being there on     farm at that gift time. The farmer can know   earlier about the negative climate situations. In such 
 instances farmer might also want to    forestall the machine remotely or routinely. The concept of the usage of IOT for 
 irrigation can be prolonged in addition to  other tasks in farming together with farm   animals management, fireplace detection and climate manage.This could limit human intervention in   farming sports.
+#For opening 
+1. Download Arduino Ide from https://www.arduino.cc/en/Main/Software .
+2. Import the two libraries(copy and paste the folder to the library folder of the directory of your arduino ide).
+3. open the 
