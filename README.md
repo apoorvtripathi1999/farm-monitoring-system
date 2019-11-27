@@ -42,5 +42,5 @@ instances farmer might also want to    forestall the machine remotely or routine
 irrigation can be prolonged in addition to  other tasks in farming together with farm   animals management, fireplace detection and climate manage.This could limit human intervention in   farming sports.
 #For opening 
 1. Download Arduino Ide from https://www.arduino.cc/en/Main/Software .
-2. Import the two libraries(copy and paste the folder to the library folder of the directory of your arduino ide).
-3. open the 
+2. Import the  	DHT ,GSM_GPRS_GPS_Shield_GSMSHIELD libraries(copy and paste the folder to the library folder of the directory of your arduino ide).
+3. open the arduino_code.ino file .
