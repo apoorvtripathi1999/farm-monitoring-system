@@ -72,7 +72,7 @@ void loop()
   delay(1000);
   mySerial.println("AT+CMGS=\"+XXXXXXXXXX\"\r"); //replace X with 10 digit mobile number    
   delay(1000);
-  mySerial.println((String)"update->"+(String)"Temprature="+t+(String)"Humidity="+h+(String)"Moisture="+m);
+  mySerial.println((String)"update->"+(String)"Temprature="+t+(String)"Humidity="+h+(String)"Moisture="+m);//message format
   mySerial.println();
   delay(100);
   Serial.write(0x1A);
