@@ -21,12 +21,9 @@ the the signals containing information or data or values of the condition of soi
 
 D.PIR Sensor
 
-PIR sensor stands for Passive Infrared Sensor. It detects the movement around it and sends the signals accordingly. It radiates electromagnetic radiation. If any object comes within the range of tgis radiated electromagnetic radiation, the it hits the object and comes b ack to the PIR sensor telling that there is presence of an object in a specified range. An led or Buzzer can be attached
-with PIR sensor so that the hindrance can be detected easily or the user will know of the hindrance ealisy.
-It will help the farmer to see if any animal has broken into field and is destroying  crops. In this way the farmer can save his crops and lead to betterment in the quality of the crops. PIR sensor is used in burglar system also to detect if thieves have entered into an infrastructure. It is also called as PID.
+PIR sensor stands for Passive Infrared Sensor. It detects the movement around it and sends the signals accordingly. It radiates electromagnetic radiation. It hits the object and comes back to the PIR sensor telling that there is presence of an object in a specified range. An led or Buzzer can be attached with PIR sensor so that the hindrance can be detected easily. It will help the farmer to know if any animal has broken into field and is destroying  crops. In this way the farmer can save his crops.
 
 E.GSM Shield
-
 The GSM Shield is used as a method of communication in this proposed technology. The GSM Shield is sed to send text messages to the farmer’s cell phone about the conditions of the temperature, humidity soil and field area. A separate coding has to be done for gsm shield in Arduino. It needs a sim to implement it. The number of the sim has to be fed in the coding. The number would belong to
 farmer to which the messages has to be sent. The values detected and transmitted by the sensors to Arduino is sent by the gsm to the cell phone. Hence it uses a network which does not require internet and overcpmes the biggest loop hole of projects of this domain. 
 It can also be used to make voice calls. It is bas3d on radio modem M10 Quectel. It incorporates AT Commands. It also has several pins to connect to. It uses TCP and UDP protocol for sending data packets. It uses HTTP which is HyperText Transfer Protocol.
