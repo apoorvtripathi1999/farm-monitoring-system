@@ -41,7 +41,7 @@ void loop()
   delay(1000);
   if(m<40)//pump
   {
-  while(m>50)
+  while(m<40)
   {
   digitalWrite(pin_out,HIGH);//open pump
   sensor_analog = analogRead(sensor_pin);
