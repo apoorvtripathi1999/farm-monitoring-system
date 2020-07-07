@@ -9,7 +9,6 @@ const int sensor_pin = A1;  // Soil moisture sensor O/P pin
 int pin_out = 9;
 //allocate variables
 dht DHT;
-float h,t,m;
 int c=0;
 
 void setup()
